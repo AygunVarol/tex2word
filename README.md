@@ -15,5 +15,5 @@ This project provides a Python script to convert LaTeX section fragments (not fu
 
 ```bash
 python tex2pdf.py
-# Enter the path to the folder containing .tex files
 ```
+4. **Enter the path to the folder containing .tex files**
