@@ -10,8 +10,9 @@ This project provides a Python script to convert LaTeX section fragments (not fu
 ## Usage
 
 1. **Put your `.tex` section files and a `.bib` file in a folder**
-2. **Edit `tex2word.py` if your `.bib` file has a different name or location.**
-3. **Run the script:**
+2. Install Pandoc
+3. **Edit `tex2word.py` if your `.bib` file has a different name or location.**
+4. **Run the script:**
 
 ```bash
 python tex2word.py
